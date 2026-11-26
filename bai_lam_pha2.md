@@ -97,7 +97,7 @@ Kết quả của AI là đúng.
 }
 ```
 
-**Link trò chuyện:** https://chatgpt.com/share/6b078fcd-21b4-83ec-b225-45766e1c11dd
+**Link trò chuyện:** [https://chatgpt.com/share/6b078fcd-21b4-83ec-b225-45766e1c11dd](https://chatgpt.com/share/6b079121-5cc8-83ec-8448-20608e27c24a)
 
 ## 4.5. Prompt chấm bài theo Rubric
 
