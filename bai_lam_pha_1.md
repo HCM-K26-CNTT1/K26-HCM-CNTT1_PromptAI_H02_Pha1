@@ -154,7 +154,7 @@ Bắt đầu câu trả lời bằng ký tự {
 **CAU LENH**
 
 ```text
-(Viết câu lệnh vào đây – xoá dòng này)
+prompt trước của bạn đang bị ngắt giữa chừng ở đoạn "...Phương Nam Express xin hoàn lại Quý khách khoản". Hãy viết tiếp ngay sau đoạn này, bắt đầu từ chữ kế tiếp của câu đang dang dở. KHÔNg viết lại bất kỳ phần nào đã có, không có lời chào xã giao mở đầu lại, giữ nguyêm giọng điều và hoàn thiện nốt emai
 ```
 
 ## 4.5. Prompt chấm bài theo Rubric
